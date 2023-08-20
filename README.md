@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ahmer Ali</h1>
+<h1 align="center">
+  Hi 👋, I'm Ahmer Ali
+  <br>
+  <img src="https://raw.githubusercontent.com/ahmerali412/ahmerali412/main/assets/wave.gif" width="30px">
+</h1>
 <h3 align="center">🎨 Manipulating pixels through programming. 🖥️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmerali412&label=Profile%20views&color=0e75b6&style=flat" alt="ahmerali412" /> </p>
