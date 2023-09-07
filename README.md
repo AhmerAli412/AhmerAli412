@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmerali412&label=Profile%20views&color=0e75b6&style=flat" alt="ahmerali412" /> </p>
 
-- 🌱 I’m currently learning **NEXT JS, TYPESCRIPT and BLOCKCHAIN**
+- 🌱 I’m currently learning **NEXT JS and BLOCKCHAIN**
 
 - 👨‍💻 All of my projects are available at [https://ahmer.vercel.app/](https://ahmer.vercel.app/)
 
