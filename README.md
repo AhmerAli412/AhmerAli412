@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmer.vercel.app/](https://ahmer.vercel.app/)
 
-- 💬 Ask me about **react, node and mongodb**
+- 💬 Ask me about **react, node and mongodb.**
 
 - 📫 How to reach me **aliahmer289@gmail.com**
 
