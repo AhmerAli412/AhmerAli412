@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Ahmer Ali
+  Hi there 👋, I'm Ahmer Ali
   <br>
   <img src="https://raw.githubusercontent.com/ahmerali412/ahmerali412/main/assets/wave.gif" width="30px">
 </h1>
@@ -8,33 +8,51 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmerali412&label=Profile%20views&color=0e75b6&style=flat" alt="ahmerali412" /> </p>
 
-### 🌱 Currently Learning
-- **NEXT JS**
-- **BLOCKCHAIN**
 ---
-### 👨‍💻 Projects
-Explore my projects at [https://ahmer.vercel.app/](https://ahmer.vercel.app/)
+
+<h2 align="center">🚀 Haris' Skill Arsenal</h2>
+
+### 🎨 Frontend Development
+- **Core Technologies**: `HTML | CSS | JavaScript | TypeScript`
+- **Frameworks**: `React.js | Next.js`
+- **State Management**: `Redux | Redux Toolkit | MobX`
+- **Styling & UI**: `Tailwind CSS`
+- **TailwindCSS UI Libraries**: `ShadCN | Flowbite | Tailgrids | DaisyUI | Mamba UI | Headless UI`
+
+### 🛠 Backend Development
+- **Languages**: `Node.js`
+- **Frameworks**: `Express.js | Nest.js`
+- **API Design**: `RESTful APIs`
+
+### 🗃 Databases
+- **NoSQL**: `MongoDB | Mongoose`
+- **SQL**: `MySQL`
+
+### 🛡 Authentication and Security
+- **Token-Based**: `JWT (JSON Web Tokens)`
+- **Cookie-Based**: `Cookie Authentication`
+- **OAuth**: `OAuth 2.0`
+
+### 🚀 Deployment and Hosting
+- **Platforms**: `Render | Heroku | Firebase`
+
 ---
-### 💬 Ask Me About
-- **React**
-- **Node.js**
-- **MongoDB**
----
-### 📫 How to Reach Me
+
+<h3 align="center">How to Reach Me</h3>
 - Email: [aliahmer289@gmail.com](mailto:aliahmer289@gmail.com)
----
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/ahmer412" target="blank">
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/ahmer412" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmer412" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/ahmer_412" target="blank">
+  <a href="https://instagram.com/ahmer_412" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmer_412" height="30" width="40" />
   </a>
 </p>
----
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
