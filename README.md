@@ -1,39 +1,53 @@
-
-<h1 class="text-center text-3xl font-bold mb-4">
-  Hi there 👋, I'm Ahmer
+<h1 align="center">
+  Hi there 👋, I'm Ahmer Ali
   <br>
+  <img src="https://raw.githubusercontent.com/ahmerali412/ahmerali412/main/assets/wave.gif" width="30px">
 </h1>
 
-<h3 class="text-center">asf fghj ghjk ghj</h3>
+<h3 align="center">🎨 Manipulating pixels through programming.</h3>
 
-<p class="text-left mt-4"> <img src="https://komarev.com/ghpvc/?username=Ahmer&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmerali412&label=Profile%20views&color=0e75b6&style=flat" alt="ahmerali412" /> </p>
 
 ---
 
-<h2 class="text-center mt-8">🚀 Ahmer's Skill Arsenal</h2>
+<h2 align="center">🚀 Ahmers' Skill Arsenal</h2>
 
 ### 🚀 Projects
 - **Saw my projects at**: `ahmer.vercel.app`
 
-### 🌟 Main Technology
-- `hhh | hhdhhd | hdhdhd`
-
 ### 🎨 Frontend Development
-- **Technologies**: `hhh | hhdhhd | hdhdhd`
-- **Frameworks**: `hhh | hhdhhd | hdhdhd`
-- **State Management**: `hhh | hhdhhd | hdhdhd`
-- **Styling & UI**: `hhh | hhdhhd | hdhdhd`
+- **Core Technologies**: `HTML | CSS | JavaScript | TypeScript`
+- **Frameworks**: `React.js | Next.js`
+- **State Management**: `Redux | Redux Toolkit | ContextAPI`
+- **Styling & UI**: `Tailwind CSS | Bootstrap`
+- **TailwindCSS UI Libraries**: `TailwindAwesome | Flowbite | Tailgrids | DaisyUI | Mamba UI | TailwindUI | Flowrift | ComponenetLand`
 
 ### 🛠 Backend Development
-- **Languages**: `hhh | hhdhhd | hdhdhd`
-- **Frameworks**: `hhh | hhdhhd | hdhdhd`
-- **API Design**: `hhh | hhdhhd | hdhdhd`
+- **Languages**: `Javascript | Python | Typescript`
+- **Frameworks**: `Express.js | Flask`
+- **API Design**: `RESTful APIs`
+
+### 🛠 Blockchain Development
+- **Languages**: `Solidity`
+- **Frameworks**: `Hardhat | Ethers js`
+- **Tools**: `Metamask | Sepolia`
 
 ### 🗃 Databases
-- **NoSQL**: `hhh | hhdhhd | hdhdhd`
+- **NoSQL**: `MongoDB | Mongoose`
+- **SQL**: `MySQL`
 
 ### 🛡 Authentication and Security
-- **Token-Based**: `hhh | hhdhhd | hdhdhd`
+- **Token-Based**: `JWT (JSON Web Tokens)`
+- **OAuth**: `OAuth 2.0`
+- **Clerk**: `ClerkAuth`
 
 ### 🚀 Deployment and Hosting
-- **Platforms**: `hhh | hhdhhd | hdhdhd`
+- **Platforms**: `Render | Vercel | Netlify | Railway`
+
+### 🚀 Contact
+- **Email**: `aliahmer289@gmail.com`
+---
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmerali412&" alt="ahmerali412" />
+</p>
