@@ -6,8 +6,6 @@
 
 <h3 align="center">🎨 Manipulating pixels through programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmerali412&label=Profile%20views&color=0e75b6&style=flat" alt="ahmerali412" /> </p>
-
 ---
 
 <h2 align="center">🚀 Ahmers' Skill Arsenal</h2>
