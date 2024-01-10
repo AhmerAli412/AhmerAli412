@@ -6,10 +6,6 @@
 
 <h3 align="center">🎨 Manipulating pixels through programming.</h3>
 
----
-
-<h2 align="center">🚀 Ahmers' Skill Arsenal</h2>
-
 ### 🚀 Projects
 - **Saw my projects at**: `ahmer.vercel.app`
 
