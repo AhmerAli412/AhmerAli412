@@ -1,10 +1,10 @@
-<h1 align="center">
+<h1 align="">
   Hi there 👋, I'm Ahmer Ali
   <br>
   <img src="https://raw.githubusercontent.com/ahmerali412/ahmerali412/main/assets/wave.gif" width="30px">
 </h1>
 
-<h3 align="center">🎨 Manipulating pixels through programming.</h3>
+<h3 align="">🎨 Manipulating pixels through programming.</h3>
 
 ### 🚀 Projects
 - **Saw my projects at**: `ahmer.vercel.app`
