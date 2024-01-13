@@ -4,6 +4,7 @@
   <img src="https://raw.githubusercontent.com/ahmerali412/ahmerali412/main/assets/wave.gif" width="30px">
 </h1>
 
+ <br>
 <h3 align="">🎨 Manipulating pixels through programming.</h3>
 
 ### 🚀 Projects
