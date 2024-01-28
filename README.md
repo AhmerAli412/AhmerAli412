@@ -5,7 +5,7 @@
 </h1>
 
 ### 🚀 Projects
-- **Saw my projects at**; <a href="https://ahmer.vercel.app/">ahmer.vercel.app</a>
+- **Saw my projects at**: <a href="https://ahmer.vercel.app/">ahmer.vercel.app</a>
 
 ### 🎨 Frontend Development
 - **Core Technologies**: `HTML | CSS | JavaScript | TypeScript`
